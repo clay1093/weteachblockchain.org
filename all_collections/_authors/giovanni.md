@@ -3,7 +3,7 @@ short_name: gio
 name: Giovanni Kague
 position: CEO, BeFaster
 learnMoreLink: "https://befaster.fit"
-permalink: "/contributors/befaster/"
+permalink: "/contributors/giovanni/"
 headshot: authors/Gio_square.jpg
 banner: authors/Gio.jpg
 layout: author
